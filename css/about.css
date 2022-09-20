@@ -1,0 +1,99 @@
+
+/*-- about --*/
+.about_left1{
+    background-size: cover;
+    min-height: 340px;
+}
+.about_left2{
+    background-size: cover;
+    min-height: 340px;
+}
+.img1{
+    background: url(../images/about/about_11.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 340px;
+}
+.img2{
+    background: url(../images/about/about-1.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 340px;
+}
+.img3{
+    background: url(../images/about/about-2.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 340px;
+}
+.img4{
+    background: url(../images/about/about-3.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 340px;
+}
+
+
+.about_right h3 {
+    font-size: 26px;
+    font-weight: 400;
+    color: #000;
+    text-transform: uppercase;
+}
+.about_right h4 {
+    font-size: 20px;
+    color: #000;
+    margin: 15px 0;
+    font-weight: 400;
+}
+.about_right p {
+    font-size: 14px;
+    line-height: 28px;
+    margin: 1em 0 2em;
+    color: #000;
+}
+
+
+.about_right {
+    padding: 4em 4em 5em;
+    min-height: 340px;
+    background: #b52e31;
+}
+
+.about_right1 {
+    background: #eaeaea;
+}
+.about_right2 {
+    background: #eaeaea;
+}
+.about_middle_grid {
+    margin: 2em 0;
+}
+/*--about --*/
+
+
+
+h3.heading {
+    text-align: center;
+    font-size: 45px;
+    text-transform: capitalize;
+    color: #000;
+    margin-bottom: 50px;
+    font-weight: 300;
+    position: relative;
+}
+h3.heading:before {
+    content: '';
+    background: #000;
+    height: 1px;
+    width: 10%;
+    bottom: -30%;
+    left: 45%;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
